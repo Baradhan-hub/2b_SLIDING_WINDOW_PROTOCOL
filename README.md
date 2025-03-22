@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# REG NO: 212224040045
+# NAME: BARADHAN.L
 ## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
